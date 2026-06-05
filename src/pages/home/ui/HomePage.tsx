@@ -19,7 +19,7 @@ export function HomePage() {
         <EmptyState>
           <Copy>
             <Title>Online Shop</Title>
-            <Subtitle>Frontend v2</Subtitle>
+            <Subtitle>Frontend v2 CI smoke</Subtitle>
           </Copy>
           <Button type="button" disabled>
             Starter
